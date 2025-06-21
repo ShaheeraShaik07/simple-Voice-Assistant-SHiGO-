@@ -1,2 +1,6 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# .gitignore
+__pycache__/
+.vscode/
+venv/
+*.pyc
+git commit -m "Initial commit - simple-Voice -Assistant-SHiGO"
