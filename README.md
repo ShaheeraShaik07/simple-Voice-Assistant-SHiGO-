@@ -3,6 +3,7 @@ Python 3.8 or above
 VS Code (or any editor)
 A microphone
 Internet connection for YouTube/Wikipedia
+
 Step 1: Create Project Folder
 Open VS Code → Create a new folder:
 
